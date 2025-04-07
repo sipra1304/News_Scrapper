@@ -71,10 +71,10 @@ News_Archive_<YEAR>.xlsx
 ```
 Each row contains:
 
--publish_date
--headline_category
--headline_text
--article_link
+- publish_date
+- headline_category
+- headline_text
+- article_link
 
 ## ❗ Disclaimer
 

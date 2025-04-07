@@ -2,6 +2,13 @@
 
 This is a Python script that scrapes news article headlines from any website that offers date-based archives. It is designed to be flexible and easy to customize for different news platforms.
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+
+> A flexible and customizable Python script for scraping news article headlines from websites with date-based archives.
+
+---
 ## 📂 Project Structure
 
 ```plaintext
